@@ -115,17 +115,18 @@ Linux / Ubuntu (WSL)
 
 Makefile build system
 
-Skills Demonstrated
+### Skills Demonstrated
 
-Multithreading in C
 
-Parallel file processing
+- Multithreading in C
 
-Linux systems programming
+- Parallel file processing
 
-Safe memory management
+- Linux systems programming
 
-Command-line application design
+ -Safe memory management
+
+- Command-line application design
 
 ##Author
 Abhishek Poudel
