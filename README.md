@@ -19,3 +19,14 @@ The threaded version creates one thread per file and aggregates results safely a
 
 ```bash
 make
+## Run
+
+Sequential version:
+
+```bash
+./sum-files data/sample1.txt
+
+Multithreaded version:
+```bash
+./sum-files-threaded data/sample1.txt
+
